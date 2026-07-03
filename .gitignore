@@ -1,0 +1,12 @@
+.venv
+*.xml
+*.png
+*.keras
+*.parquet
+*.pkl
+results_summary.csv
+*_results.csv
+*_summary.csv
+tmp.ipynb
+*_ORIGINAL.ipynb
+.idea/
