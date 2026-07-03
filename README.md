@@ -21,7 +21,7 @@ WGC_Central_Bank_Reserves.csv  # World Gold Council — central bank gold reserv
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/emi-lex/wqu-capstone-gold-price-prediction.git
+git clone https://github.com/janesu-droid/wqu-capstone-gold-price-prediction.git
 cd wqu-capstone-gold-price-prediction
 ```
 
@@ -84,4 +84,3 @@ Key parameters are defined at the top of the config cell in the notebook:
 | `LOOKBACK` | `60` | Sequence look-back window (days) |
 | `N_SPLITS_WF` | `3` | Walk-forward cross-validation splits |
 | `STRICT_REQUIRED_INPUTS` | `True` | Fail if COT / WGC data files are missing |
-
